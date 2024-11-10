@@ -7,4 +7,4 @@ This brand board for NEEL establishes a cohesive visual identity through careful
 This Excel dashboard analyzes coffee sales using advanced functions like Pivot Tables, INDEX MATCH, IF, Nested IFs, and XLOOKUP for efficient data processing. Customized Timeline and Slicers enable interactive filtering by product type, region, and time period. KPIs track performance, while customized graphs provide insights into sales trends, top products, and regional breakdowns. 
 ## Website
 Project Neel is a two-page, fully custom-designed website built on Webflow, demonstrating advanced UI/UX features. The site integrates AI-curated images, enhancing visual appeal, and features custom animations for interactive engagement. Advanced Webflow elements include sliders, lightboxes, tabs, and a form block, offering dynamic content display and user interaction. The responsive navbar provides streamlined navigation, while hover effects and transitions add depth to the user experience. 
-site link: https://neel-website.webflow.io/
+### site link: https://neel-website.webflow.io/
